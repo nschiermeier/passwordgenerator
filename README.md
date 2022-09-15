@@ -1,4 +1,4 @@
-# passwordgenerator
+# Simple Password Generator
 A password generator with a UI to go along with it.
 
 **PasswordGUI.java**: This class contains all the code for the GUI part of this microapplication. Includes functionality such as hitting the buttons, setting the length of the password, viewing the password and allowing user to copy it, etc. An early diagram for this GUI can be viewed in passwordgenerator/out/artifacts/My_Password_Generator_lower_JDK_jar/ .
